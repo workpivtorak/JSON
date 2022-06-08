@@ -1,0 +1,77 @@
+{
+	"skills": {
+		"My skills": {
+			"Theory": {
+				"testing": "True",
+				"bug_reports": "True",
+				"documentation": "True",
+				"types": "True",
+				"methods": "True",
+				"areas of testing": "True",
+				"SCRUM": "True",
+				"SDLC": "True",
+				"STLC": "True",
+				"client server": "True",
+				"logs": "True"
+			},
+			"HTTP": {
+				"methods of requests": "True",
+				"response codes": "True",
+				"strucrures": "True",
+				"Charles app": "True",
+				"Fidler app": "True",
+				"JSON": "True",
+				"structure json": "True",
+				"XML": "True",
+				"structure xml": "True"
+			},
+			"API": {
+				"Postman": "True",
+				"autotests": "True",
+				"Dev_tools": "True",
+				"Google Crome": "True",
+				"Firefox": "True",
+				"VPN": "True"
+			},
+			"Mobile testing": {
+				"IOS": "True",
+				"XCode": "True",
+				"proxy": "True",
+				"Charles": "True",
+				"Fidler": "True",
+				"Android": "True",
+				"Android studio": {
+					"ADB": "True",
+					"proxy": "True",
+					"Charles": "True",
+					"Fidler": "True"
+				}
+			},
+			"Terminal linux": {
+				"copying": "True",
+				"creating": "True",
+				"viewing": "True",
+				"moving files": "True",
+				"bash scripting": "True",
+				"Level": "Beginner"
+			},
+			"SQL": {
+				"Create": "True",
+				"Delete": "True",
+				"Drop": "True",
+				"Insert": "True",
+				"Select": "True",
+				"Where": "True",
+				"Join": "True",
+				"Postgres database": "True",
+				"installation": "True",
+				"configuration": "True",
+				"Non-relational database Redis": "True"
+			},
+			"Jmeter": "True",
+			"Python": "True",
+			"Learnin basics": "True"
+
+		}
+	}
+}

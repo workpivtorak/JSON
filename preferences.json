@@ -1,0 +1,34 @@
+{
+  "preferences": {
+	"My preferences": {
+		"films": "True",
+			"films count": "3",
+			"name": "Time",
+			"parth_f": "null",
+			"year": "2011",
+			"name_f2": "Forsage",
+			"parth_f2": "1",
+			"year_f2": "2001",
+			"name_f3": "Interstellar",
+			"year_f3": "2014",
+		"food": "True ",
+			"dishes count": "2",
+			"name_d": "Pizza",
+			"cheez count": "2",
+			"meet count": "3",
+			"souce": "many",
+			"name_d2": "chicken",
+			"cook": "wife",
+			"sweet": "True",
+			"parth": "wings",
+			"garnish": "fig",
+		"travel": "True",
+			"bike": "True",
+			"bus": "True",
+			"train": "True",
+			"car": "True",
+			"sezon": "spring",
+			"county": "USA"
+		}
+	}
+}
