@@ -1,0 +1,40 @@
+{
+ "biography":{
+
+         "My biography":{
+       
+               "name":"Yurii",
+               "surname":"Pivtorak",
+               "age":"30",
+               "married":"True"
+},
+          "My residence":{
+               "country":"Ukraine",
+               "region":"Vinnitsya",
+               "city":"Illintsi",
+               "street":"Lisova",
+               "house number":"17"
+},
+      
+         "My family":{
+               "wife":"True",
+               "name wife":"Galina",
+               "age wife":"32",        
+               "childrens count":"2",
+               "name doughter":"Nika",
+               "age doughter":"11",
+               "son name":"Yegor",
+               "age son":"4",
+               "dog count":"1",
+               "name dog":"S'oma"
+},
+         "My experience":{
+               "profession":"Qa",
+               "year":"2021",
+               "work":"freelancer",
+               "level":"beginer",
+               "adapt":"Hight",
+               "payment":"500"
+  } 
+ }
+}
