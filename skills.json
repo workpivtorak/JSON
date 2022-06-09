@@ -1,58 +1,58 @@
 {
 	"skills": {
-		"My skills": {
+		"My_skills": {
 			"Theory": {
 				"testing": "True",
 				"bug_reports": "True",
 				"documentation": "True",
 				"types": "True",
 				"methods": "True",
-				"areas of testing": "True",
+				"areas_of_testing": "True",
 				"SCRUM": "True",
 				"SDLC": "True",
 				"STLC": "True",
-				"client server": "True",
+				"client_server": "True",
 				"logs": "True"
 			},
 			"HTTP": {
-				"methods of requests": "True",
-				"response codes": "True",
+				"methods_of_requests": "True",
+				"response_codes": "True",
 				"strucrures": "True",
-				"Charles app": "True",
-				"Fidler app": "True",
+				"Charles_app": "True",
+				"Fidler_app": "True",
 				"JSON": "True",
-				"structure json": "True",
+				"structure_json": "True",
 				"XML": "True",
-				"structure xml": "True"
+				"structure_xml": "True"
 			},
 			"API": {
 				"Postman": "True",
 				"autotests": "True",
 				"Dev_tools": "True",
-				"Google Crome": "True",
+				"Google_Crome": "True",
 				"Firefox": "True",
 				"VPN": "True"
 			},
-			"Mobile testing": {
+			"Mobile_testing": {
 				"IOS": "True",
 				"XCode": "True",
 				"proxy": "True",
 				"Charles": "True",
 				"Fidler": "True",
 				"Android": "True",
-				"Android studio": {
+				"Android_studio": {
 					"ADB": "True",
 					"proxy": "True",
 					"Charles": "True",
 					"Fidler": "True"
 				}
 			},
-			"Terminal linux": {
+			"Terminal_linux": {
 				"copying": "True",
 				"creating": "True",
 				"viewing": "True",
-				"moving files": "True",
-				"bash scripting": "True",
+				"moving_files": "True",
+				"bash_scripting": "True",
 				"Level": "Beginner"
 			},
 			"SQL": {
@@ -63,14 +63,14 @@
 				"Select": "True",
 				"Where": "True",
 				"Join": "True",
-				"Postgres database": "True",
+				"Postgres_database": "True",
 				"installation": "True",
 				"configuration": "True",
-				"Non-relational database Redis": "True"
+				"Non-relational_database_Redis": "True"
 			},
 			"Jmeter": "True",
 			"Python": "True",
-			"Learnin basics": "True"
+			"Learnin_basics": "True"
 
 		}
 	}
