@@ -2,7 +2,7 @@
   "preferences": {
 	"My_preferences": {
 		"films": "True",
-			"films count": "3",
+			"films_count": "3",
 			"name": "Time",
 			"parth_f": "null",
 			"year": "2011",
