@@ -1,69 +1,69 @@
 {
 	"reports": {
 		"website": "Epicentrk.ua",
-		"bugs count": "3",
-		"My bug reports": {
+		"bugs_count": "3",
+		"My_bug_reports": {
 			"Id1": "D1",
 			"Summary1": "Write appeal",
 			"data1": "incorrect",
 			"Preconditions1": "Go to epicentrk.ua",
-			"Steps d1": {
+			"Steps_d1": {
 				"first": "Scroll down",
 				"second": "Press wright us button",
 				"third": "Fill the form"
 			},
-			"expected d1": "form validated",
-			"actual d1": "form not valid",
-			"Severity d1": "Minor",
-			"Priority d1": "Low",
-			"Type d1": "Logical",
-			"Environment d1": {
+			"expected_d1": "form validated",
+			"actual_d1": "form not valid",
+			"Severity_d1": "Minor",
+			"Priority_d1": "Low",
+			"Type_d1": "Logical",
+			"Environment_d1": {
 				"OSd1": "Windows 10 Pro 64-bit",
-				"Processor d1": "AMD Athlon II",
-				"Model d1": "P360",
-				"core d1": "Dual",
-				"RAM d1": "8 gb"
+				"Processor_d1": "AMD Athlon II",
+				"Model_d1": "P360",
+				"core_d1": "Dual",
+				"RAM_d1": "8 gb"
 			},
-			"Attachment d1": "null",
+			"Attachment_d1": "null",
 
 			"Id2": "D2",
 			"Summary2": "Change of surname",
-			"data d2": "correct",
+			"data_d2": "correct",
 			"Preconditions2": {
-				"first pr2": "Go to epicentrk.ua",
-				"second pr2": "Have registered user"
+				"first_pr2": "Go to epicentrk.ua",
+				"second_pr2": "Have registered user"
 			},
-			"Steps d2": {
-				"first st d2": "login",
-				"second st d2": "pess my data button",
-				"third st d2": "change the last name"
+			"Steps_d2": {
+				"first_st_d2": "login",
+				"second_st_d2": "pess my data button",
+				"third_st_d2": "change the last name"
 			},
-			"expected d2": "form should notify of an error",
-			"actual d2": "field allows to keep blank",
-			"Severity d2": "Minor",
-			"Priority d2": "Low",
-			"Type d2": "Logical",
-			"Environment d2": {
-				"OS d2": "Windows 10 Pro 64-bit",
-				"Processor d2": "AMD Athlon II",
-				"Model d2": "P360",
-				"core d2": "Dual",
-				"RAM d2": "8 gb"
+			"expected_d2": "form should notify of an error",
+			"actual_d2": "field allows to keep blank",
+			"Severity_d2": "Minor",
+			"Priority_d2": "Low",
+			"Type_d2": "Logical",
+			"Environment_d2": {
+				"OS_d2": "Windows 10 Pro 64-bit",
+				"Processor_d2": "AMD Athlon II",
+				"Model_d2": "P360",
+				"core_d2": "Dual",
+				"RAM_d2": "8 gb"
 			},
-			"Attachment d2": "null",
+			"Attachment_d2": "null",
 
 			"Id3": "D3",
 			"Summary3": "Change of localization",
 			"Preconditions3": "Go to epicentrk.ua",
-			"Steps d3": {
+			"Steps_d3": {
 				"first": "Open the directory",
 				"second": "Open Products",
 				"third": "Open Meat and meat products",
 				"fourth": "Open Meat products",
 				"fifth": "Open Marinated meat for barbecue"
 			},
-			"expected d3": "language on the site should change according to the chosen localization",
-			"actual d3": "There is a cross-localization defect in Ukrainian product description in Russian and in Russian product description in Ukrainian",
+			"expected_d3": "language on the site should change according to the chosen localization",
+			"actual_d3": "There is a cross-localization defect in Ukrainian product description in Russian and in Russian product description in Ukrainian",
 			"Severity": "Major",
 			"Priority": "Low",
 			"Type": "Localization",
