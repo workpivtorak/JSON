@@ -1,14 +1,14 @@
 {
  "biography":{
 
-         "My biography":{
+         "My_biography":{
        
                "name":"Yurii",
                "surname":"Pivtorak",
                "age":"30",
                "married":"True"
 },
-          "My residence":{
+          "My_residence":{
                "country":"Ukraine",
                "region":"Vinnitsya",
                "city":"Illintsi",
@@ -16,7 +16,7 @@
                "house number":"17"
 },
       
-         "My family":{
+         "My_family":{
                "wife":"True",
                "name wife":"Galina",
                "age wife":"32",        
@@ -28,11 +28,11 @@
                "dog count":"1",
                "name dog":"S'oma"
 },
-         "My experience":{
+         "My_experience":{
                "profession":"Qa",
                "year":"2021",
                "work":"freelancer",
-               "level":"beginer",
+               "level":"beginner",
                "adapt":"Hight",
                "payment":"500"
   } 
