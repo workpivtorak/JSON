@@ -1,6 +1,6 @@
 {
   "preferences": {
-	"My preferences": {
+	"My_preferences": {
 		"films": "True",
 			"films count": "3",
 			"name": "Time",
@@ -12,10 +12,10 @@
 			"name_f3": "Interstellar",
 			"year_f3": "2014",
 		"food": "True ",
-			"dishes count": "2",
+			"dishes_count": "2",
 			"name_d": "Pizza",
-			"cheez count": "2",
-			"meet count": "3",
+			"cheez_count": "2",
+			"meet_count": "3",
 			"souce": "many",
 			"name_d2": "chicken",
 			"cook": "wife",
@@ -27,8 +27,8 @@
 			"bus": "True",
 			"train": "True",
 			"car": "True",
-			"sezon": "spring",
-			"county": "USA"
+			"season": "spring",
+			"country": "USA"
 		}
 	}
 }
