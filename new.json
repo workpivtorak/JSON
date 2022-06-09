@@ -13,20 +13,20 @@
                "region":"Vinnitsya",
                "city":"Illintsi",
                "street":"Lisova",
-               "house number":"17"
+               "house_number":"17"
 },
       
          "My_family":{
                "wife":"True",
-               "name wife":"Galina",
-               "age wife":"32",        
-               "childrens count":"2",
-               "name doughter":"Nika",
-               "age doughter":"11",
-               "son name":"Yegor",
-               "age son":"4",
-               "dog count":"1",
-               "name dog":"S'oma"
+               "name_wife":"Galina",
+               "age_wife":"32",        
+               "childrens_count":"2",
+               "name_doughter":"Nika",
+               "age_doughter":"11",
+               "son_name":"Yegor",
+               "age_son":"4",
+               "dog_count":"1",
+               "name_dog":"S'oma"
 },
          "My_experience":{
                "profession":"Qa",
